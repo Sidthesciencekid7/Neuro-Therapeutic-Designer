@@ -26,4 +26,5 @@ By analyzing the physicochemical properties of a molecule (Lipophilicity, Molecu
 1. Install dependencies:
    `pip install -r requirements.txt`
 2. Run the notebook or script to launch the dashboard.
+
 3. Enter a SMILES string (e.g., Aspirin or Curcumin) to see the prediction.
